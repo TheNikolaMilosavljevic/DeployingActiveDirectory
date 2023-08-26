@@ -37,10 +37,8 @@ Using your Microsoft Azure account, create a virtual machine named DC-1, this pa
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<a href="https://imgbox.com/AOvKPOhA" target="_blank"><img src="https://thumbs2.imgbox.com/9d/be/AOvKPOhA_t.png" alt="image host"/></a>
+  Edit the DC-1 server you created by changing the ip configurations from dynamic to static under virtual machines > DC-1|Networing > dc-1164|Ip configurations
 </p>
 <br />
 
