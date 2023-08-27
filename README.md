@@ -49,4 +49,7 @@ Using client-1 in virtual laps open the command prompt and ping the private Ip a
 </p>
 <a href="https://imgbox.com/ID5dTPo3" target="_blank"><img src="https://thumbs2.imgbox.com/20/c8/ID5dTPo3_t.png" alt="image host"/></a>
 Install active directory DC-1 by clicking on "server manager", then click "add roles and features", go through the prompts and make sure you check "active directory domain services" then install.
+<p></p>
 <br />
+<a href="https://imgbox.com/fQklGRyC" target="_blank"><img src="https://thumbs2.imgbox.com/e1/8b/fQklGRyC_t.png" alt="image host"/></a>
+create a new organizational unit called "_Employees" as well as a new organizational unit called "_Admins". Using the organizational units, this grants the ability to add or remove users at your discretion.
