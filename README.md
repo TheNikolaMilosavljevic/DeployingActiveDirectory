@@ -43,9 +43,8 @@ Using your Microsoft Azure account, create a virtual machine named DC-1, this pa
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<a href="https://imgbox.com/FqvUSleT" target="_blank"><img src="https://thumbs2.imgbox.com/a5/28/FqvUSleT_t.png" alt="image host"/></a></p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Using client-1 in virtual laps open the command prompt and ping the private Ip address of you other virtual machine called DC-1. Make sure that you turn off the fire wall in DC-1 in order to have a successful ping
 </p>
 <br />
