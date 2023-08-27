@@ -19,9 +19,9 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 - Create windows server virtual machine using Microsoft Azure
-- Ensure onnectivity between client and domain controller
+- Ensure connectivity between client and domain controller
 - Install active directory
-- Create and admin as well as a normal user in active directory
+- Create an admin as well as a normal user in active directory
 - Join client-1 to your domain
 - Setup remote desktop for non-administrative users on client-1
 - Create additional users and attempt to log into client-1 with the accounts
@@ -47,4 +47,7 @@ Using your Microsoft Azure account, create a virtual machine named DC-1, this pa
 <p>
 Using client-1 in virtual laps open the command prompt and ping the private Ip address of you other virtual machine called DC-1. Make sure that you turn off the fire wall in DC-1 in order to have a successful ping
 </p>
+<a href="https://imgbox.com/ID5dTPo3" target="_blank"><img src="https://thumbs2.imgbox.com/20/c8/ID5dTPo3_t.png" alt="image host"/></a>
+</p>
+Install active directory DC-1 by clicking on "server manager", then click "add roles and features", go through the prompts and make sure you check "active directory domain services" then install.
 <br />
