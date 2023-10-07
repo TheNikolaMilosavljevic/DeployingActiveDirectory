@@ -45,7 +45,7 @@ Using your Microsoft Azure account, create a virtual machine named DC-1, this pa
 <p>
 <a href="https://imgbox.com/FqvUSleT" target="_blank"><img src="https://thumbs2.imgbox.com/a5/28/FqvUSleT_t.png" alt="image host"/></a></p>
 <p>
-Using client-1 in virtual laps open the command prompt and ping the private Ip address of you other virtual machine called DC-1. Make sure that you turn off the fire wall in DC-1 in order to have a successful ping
+Using client-1 in virtual machine open the command prompt and ping the private Ip address of you other virtual machine called DC-1. Make sure that you turn off the fire wall in DC-1 in order to have a successful ping
 </p>
 <a href="https://imgbox.com/ID5dTPo3" target="_blank"><img src="https://thumbs2.imgbox.com/20/c8/ID5dTPo3_t.png" alt="image host"/></a>
 Install active directory DC-1 by clicking on "server manager", then click "add roles and features", go through the prompts and make sure you check "active directory domain services" then install.
