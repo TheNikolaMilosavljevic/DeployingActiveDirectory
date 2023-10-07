@@ -55,3 +55,7 @@ Install active directory DC-1 by clicking on "server manager", then click "add r
 Create a new organizational unit called "_Employees" as well as a new organizational unit called "_Admins". Using the organizational units, this grants the ability to add or remove users at your discretion.
 <a href="https://imgbox.com/KcszsYa2" target="_blank"><img src="https://thumbs2.imgbox.com/44/ac/KcszsYa2_t.png" alt="image host"/></a>
 Click the admins tab and in the file right-click and click add user. Create a new user and password named "Jane_Admin". To make this user an actual domain admin, right click and add the "Jane_Admin" to the domain admins group. It is good practice to use a specific user as opposed to a generic "Admin" user.
+<a href="https://imgbox.com/nQ9r3fJy" target="_blank"><img src="https://thumbs2.imgbox.com/52/29/nQ9r3fJy_t.png" alt="image host"/></a>
+In order to join client-1 to your domain, client-1 must adopt the same DNS number as the DC-1 server. Using Microsoft Azure, edit client-1 one's DNS number. Restart Client-1
+<a href="https://imgbox.com/rnA3Rt2a" target="_blank"><img src="https://thumbs2.imgbox.com/be/8d/rnA3Rt2a_t.png" alt="image host"/></a>
+Now that you have joined Client-1 is on the domain, you can log in as "Jane_admin" in Client-1
