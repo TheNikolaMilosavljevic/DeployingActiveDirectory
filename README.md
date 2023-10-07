@@ -52,4 +52,6 @@ Install active directory DC-1 by clicking on "server manager", then click "add r
 <p></p>
 <br />
 <a href="https://imgbox.com/fQklGRyC" target="_blank"><img src="https://thumbs2.imgbox.com/e1/8b/fQklGRyC_t.png" alt="image host"/></a>
-create a new organizational unit called "_Employees" as well as a new organizational unit called "_Admins". Using the organizational units, this grants the ability to add or remove users at your discretion.
+Create a new organizational unit called "_Employees" as well as a new organizational unit called "_Admins". Using the organizational units, this grants the ability to add or remove users at your discretion.
+<a href="https://imgbox.com/KcszsYa2" target="_blank"><img src="https://thumbs2.imgbox.com/44/ac/KcszsYa2_t.png" alt="image host"/></a>
+Click the admins tab and in the file right-click and click add user. Create a new user and password named "Jane_Admin". To make this user an actual domain admin, right click and add the "Jane_Admin" to the domain admins group. It is good practice to use a specific user as opposed to a generic "Admin" user.
